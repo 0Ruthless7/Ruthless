@@ -12,4 +12,4 @@
 </div>
   </p>
 </center>
-<h2 align="center">xKray#0800</h2>
+<h2 align="center">xKray,, ϟ [ᙃ$]#0069</h2>
