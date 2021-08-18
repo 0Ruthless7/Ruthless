@@ -4,7 +4,7 @@
 <details>
   <summary align="left">Click here :mailbox_with_mail: </summary>
   <pre>
-https://discord.gg/7ka6fStUR6
+https://discord.gg/gbd7Cu9uyA
   </pre>
 </details>
 
