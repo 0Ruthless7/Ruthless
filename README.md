@@ -2,7 +2,7 @@
 
 <h1> Follow Me :D</h1>
 <details>
-  <summary align="left">Click here :mailbox_with_mail: </summary>
+  <summary align="left">Enter the discord community! :mailbox_with_mail: </summary>
   <pre>
 https://discord.gg/gbd7Cu9uyA
   </pre>
