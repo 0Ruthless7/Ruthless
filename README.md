@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/github/followers/xKray?label=follow&style=social)](https://github.com/xKray) ![Profile View Counter](https://komarev.com/ghpvc/?username=xKray)
 
-
+<h1> Follow Me :D</h1>
 <details>
   <summary align="left">Click here :mailbox_with_mail: </summary>
   <pre>
