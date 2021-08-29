@@ -4,7 +4,7 @@
 <details>
   <summary align="left">Enter the discord community! :mailbox_with_mail: </summary>
   <pre>
-https://discord.gg/gbd7Cu9uyA
+https://discord.gg/6asvMmVxcE
   </pre>
 </details>
 
