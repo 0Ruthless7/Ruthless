@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/github/followers/xKray?label=follow&style=social)](https://github.com/xKray) ![Profile View Counter](https://komarev.com/ghpvc/?username=xKray)
+[![GitHub](https://img.shields.io/github/followers/14Kray?label=follow&style=social)](https://github.com/xKray) ![Profile View Counter](https://komarev.com/ghpvc/?username=14Kray)
 
 <h1> Follow Me :D</h1>
 <details>
@@ -8,7 +8,7 @@ https://discord.gg/6asvMmVxcE
   </pre>
 </details>
 
-[![Gituhub](https://github-readme-stats.vercel.app/api?username=xKray&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gituhub](https://github-readme-stats.vercel.app/api?username=14Kray&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=xKray&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=14Kray&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
