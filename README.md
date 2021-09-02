@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/github/followers/14Kray?label=follow&style=social)](https://github.com/14Krayy) ![Profile View Counter](https://komarev.com/ghpvc/?username=14Krayy)
+[![GitHub](https://img.shields.io/github/followers/14Krayy?label=follow&style=social)](https://github.com/14Krayy) ![Profile View Counter](https://komarev.com/ghpvc/?username=14Krayy)
 
 <h1> Follow Me :D</h1>
 <details>
