@@ -2,7 +2,8 @@
 > 14Krayy
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
+
+<img align="left" src="https://images-ext-2.discordapp.net/external/OVrQ3dP4C7dIIIXNEl-UhnMnGYmmwF1zArgxoKDvKlg/%3Fv%3D1/https/cdn.discordapp.com/emojis/870465690014998559.png?width=77&height=77" alt="logo.png" width="200" /> 
 
 ```csharp
 root@14krayy=>
