@@ -20,7 +20,7 @@ root@14krayy=>
   <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
   <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
   <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
- <img alt="#FFFFFF" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
+  <img alt="#FFFFFF" src="https://via.placeholder.com/16/6CB6FF/000000?text=+" width="25" height="20" />
 </p>
 
 
