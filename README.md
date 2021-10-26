@@ -1,14 +1,29 @@
-[![GitHub](https://img.shields.io/github/followers/14Krayy?label=follow&style=social)](https://github.com/14Krayy) ![Profile View Counter](https://komarev.com/ghpvc/?username=14Krayy)
+```zsh
+> 14Krayy
+```
 
-<h1> Follow Me :D</h1>
-<details>
-  <summary align="left">Enter the discord community! :mailbox_with_mail: </summary>
-  <pre>
-https://discord.gg/6asvMmVxcE
-  </pre>
-</details>
+<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
- <br>[![Gituhub](https://github-readme-stats.vercel.app/api?username=14Krayy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</br>
- [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=14Krayy&exclude_repo=eslint-config&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+```csharp
+root@14krayy=>
+----------------
+
+
+ Editors :  VS Code, Sublime Text 3, Atom
+ Databases :  MongoDB, SQL
+ Frameworks :  React, Next, Rust, Mongoose
+ Alias  :  14krayy, 14k
+ Languages  :  Python, JavaScript, HTML, CSS, C++, C#, C 
+```
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/ADBAC7/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
+</p>
+
 
 
