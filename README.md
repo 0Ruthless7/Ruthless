@@ -8,10 +8,7 @@
 root@14krayy=>
 ----------------
 
-
- Editors :  VS Code, Sublime Text 3, Atom
- Databases :  MongoDB, SQL
- Frameworks :  React, Next, Rust, Mongoose
+ Editors :  VS Code, Sublime Text 3,
  Alias  :  14krayy, 14k
  Languages  :  Python, JavaScript, HTML, CSS, C++, C#, C 
 ```
