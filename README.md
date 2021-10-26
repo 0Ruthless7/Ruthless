@@ -9,9 +9,9 @@
 root@14krayy=>
 ----------------
 
-    Editors :  VS Code, Sublime Text 3,
-     Alias  :  14krayy, 14k
  Languages  :  Python, JavaScript, HTML, CSS, C++, C#, C 
+ Editors :  VS Code, Sublime Text 3,
+ Alias  :  14krayy, 14k
 ```
 
 <p align="left">
