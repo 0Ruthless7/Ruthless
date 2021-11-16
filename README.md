@@ -1,4 +1,4 @@
-# 🖐 YO SOY 14kRAYY
+# 🖐 YO SOY 14Krayy
 
 Un apasionado **creador de contenido**
 
