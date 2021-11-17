@@ -1,10 +1,8 @@
 # 🖐 YO SOY 14Krayy
 
-Un apasionado **creador de contenido**
-
 
 ![](https://images-ext-2.discordapp.net/external/OOy3FmpllszeYJXr_TLnc_pkSZIaUHGyMnywtO1M8nw/https/cdn.discordapp.com/emojis/910026583836872774.gif?width=65&height=96)
-**> DIFRUTA LO QUE HACES Y NUNCA TE RINDAS <**
+**> CREADOR DE CONTENIDO <**
 ![](https://images-ext-2.discordapp.net/external/OOy3FmpllszeYJXr_TLnc_pkSZIaUHGyMnywtO1M8nw/https/cdn.discordapp.com/emojis/910026583836872774.gif?width=65&height=96)
 
 # 🌱 Proyectos
