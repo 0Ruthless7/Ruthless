@@ -1,9 +1,9 @@
 # 🖐 YO SOY 14Krayy
 
 
-![](https://images-ext-2.discordapp.net/external/OOy3FmpllszeYJXr_TLnc_pkSZIaUHGyMnywtO1M8nw/https/cdn.discordapp.com/emojis/910026583836872774.gif?width=65&height=96)
+![](https://images-ext-1.discordapp.net/external/MB8H8FOwld9YBzLyNsUQN-DNb7HcH4w6piFEpqBAACM/https/cdn.discordapp.com/emojis/910041680948908072.gif?width=96&height=96)
 **> CREADOR DE CONTENIDO <**
-![](https://images-ext-2.discordapp.net/external/OOy3FmpllszeYJXr_TLnc_pkSZIaUHGyMnywtO1M8nw/https/cdn.discordapp.com/emojis/910026583836872774.gif?width=65&height=96)
+![](https://images-ext-1.discordapp.net/external/MB8H8FOwld9YBzLyNsUQN-DNb7HcH4w6piFEpqBAACM/https/cdn.discordapp.com/emojis/910041680948908072.gif?width=96&height=96)
 
 # 🌱 Proyectos
 
